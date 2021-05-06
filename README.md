@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasibrahat
+- 👋 Hi, I’m hasibrahat
 - 👀 I’m interested in ... software testing and assurance the quality
 - 🌱 I’m currently learning ... TestCafe, Jenkins 
 - 💞️ I’m looking to collaborate on ... any open project with automation testing
