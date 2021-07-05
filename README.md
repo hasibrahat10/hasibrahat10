@@ -1,6 +1,6 @@
-- 👋 Hi, I’m hasibrahat
-- 👀 I’m interested in ... software testing and assurance the quality
-- 🌱 I’m currently learning ... TestCafe, Jenkins 
+- 👋 Hi, I’m Hasib Rahat
+- 👀 I’m interested in ... software/application testing and assurance the quality of the products
+- 🌱 I’m currently learning ... Protractor, Jasmine, &&  Jenkins 
 - 💞️ I’m looking to collaborate on ... any open project with automation testing
 - 📫 How to reach me ... hasib.rahat on skype
 
